@@ -4,8 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 
-A list of current projects:
+A list of current projects
 
-* [flashcardify] ({{ site.baseurl }}/ios/flashcardify.html)
-
-...
+iOS:
+<ul>
+  {% for post in site.ios %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

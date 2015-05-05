@@ -8,9 +8,9 @@ A list of current projects
 
 iOS:
 <ul>
-  {% for post in site.ios %}
+  {% for page in site.ios %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>

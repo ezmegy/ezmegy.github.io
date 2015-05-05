@@ -6,6 +6,6 @@ permalink: /projects/
 
 A list of current projects:
 
-* [flashcardify] ({{ site.baseurl }}/ios/flashcardify)
+* [flashcardify] ({{ site.baseurl }}/ios/flashcardify.html)
 
 ...

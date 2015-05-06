@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-a pragmatic dev’s minimalistic site
+Hi, I’m Peter Megyesi  
+and this is my minimalistic site  
+on software projects and whatnots.  
 
 ### More Information
 

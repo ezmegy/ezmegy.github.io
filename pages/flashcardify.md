@@ -1,7 +1,7 @@
 ---
 layout: page
 title: flashcardify
-permalink: /flashcardify/
+permalink: /pages/flashcardify/
 ---
 
 coming soon...

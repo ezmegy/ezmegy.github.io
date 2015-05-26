@@ -1,3 +1,8 @@
+---
+layout: post
+title: welcome /*to*/ ezmegy
+---
+
 Woah, first post and so many things happening this week:
 
 * just arrived in Dublin, apartment hunting (was)ON and job hunting definitely is ON.

@@ -4,4 +4,7 @@ title: lepesenkent
 permalink: /projects/ios/lepesenkent/
 ---
 
-coming soon...
+A dictionary app written in Swift for 
+the textbook series called Lépésenként magyarul, by Peter Durst.
+
+more info coming soon...

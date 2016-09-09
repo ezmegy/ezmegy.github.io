@@ -4,10 +4,10 @@ title: Projects
 permalink: /projects/project-list/
 ---
 
-A list of current projects
+A list of my current projects
 
 iOS:
 
-[flashcardify]({{ site.baseurl }}/projects/ios/flashcardify/)
+[lepesenkent]({{ site.baseurl }}/projects/ios/lepesenkent/)
 
 ...
